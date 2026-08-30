@@ -55,8 +55,8 @@ Esto es intencional: mezclar "reestructurar en componentes" + "reescribir todo e
 ## Cómo correrlo
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 ## Pendiente / próximos pasos sugeridos
