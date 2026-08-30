@@ -1,0 +1,26 @@
+# Dependencias
+/node_modules
+
+# Next.js
+/.next/
+/out/
+
+# Producción
+/build
+
+# Variables de entorno (nunca subir claves/secretos)
+.env
+.env.local
+.env.*.local
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
